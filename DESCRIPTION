@@ -1,0 +1,12 @@
+Package: stantools
+Title: Utility functions for stan outputs
+Version: 0.0.1
+Authors@R: c(person("Bill", "Gillespie", email = "billg@metrumrg.com", role = c("aut", "cre")),
+             person("Charles", "Margossian", email = "charles.margossian@columbia.edu", role = c("aut")))
+Description: Utility functions for stan outputs.
+Depends: R (>= 3.3.3)
+Imports: dplyr,ggplot2,tidyr,bayesplot,coda,stats,lattice,methods
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
